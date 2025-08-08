@@ -54,7 +54,7 @@ class WelcomePage extends StatelessWidget {
                 AppStrings.welcome,
                 style: Theme.of(context).textTheme.headlineMedium?.copyWith(
                   color: Colors.black87,
-                  fontSize: 13,
+                  fontSize: 14,
                   fontWeight: FontWeight.w500,
                 ),
                 textAlign: TextAlign.center,
